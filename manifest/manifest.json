@@ -1,0 +1,14 @@
+{
+    "name": "Record Shop",
+    "short_name": "Record Shop",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#00ffff",
+    "dir": "ltr",
+    "categories": "entertainment",
+    "lang": "en",
+    "orientation": "any",
+    "scope": "/",
+    "theme_color": "#ffff00",
+    "gcm_sender_id": "71562645621"
+}
